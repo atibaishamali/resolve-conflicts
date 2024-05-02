@@ -1,2 +1,4 @@
 Jab
 uppercut
+Cross
+left hook
