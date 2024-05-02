@@ -2,3 +2,5 @@ Jab
 uppercut
 Cross
 left hook
+Right hook
+Low Jab
