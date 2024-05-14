@@ -4,3 +4,4 @@ Cross
 left hook
 Right hook
 Low Jab
+Double Jab
