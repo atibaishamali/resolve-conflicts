@@ -1,9 +1,0 @@
-Jab
-uppercut
-Cross
-left hook
-Right hook
-Low Jab
-Super Punch
-Side Step
-back step
